@@ -1,5 +1,5 @@
 # scZCL
-A tool defines cell types in zebrafish based on single-cell digital expression
+#### A tool defines cell types in zebrafish based on single-cell digital expression
 At first scZCL is a breif R package for large scale data(large DGE) from scZCL online function [Zebrafish Cell Landscape](http://10.71.115.210/ZCA/index.html) ,to alleviate burdens of our main Server.
 
 Now we add a UI for visulizing the scHCL reuslt.
