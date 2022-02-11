@@ -36,8 +36,8 @@ The return of scZCL() is a list which contains 4 parts.
 * scHCL_probility: the top n relevant cell types for each query cell
 
 ```R
-# open shiny for visualize result for scHCL
-scHCL_vis(hcl_result)
+# open shiny for visualize result for scZCL
+scZCL_vis(zcl_result)
 ```
 
 scZCL_vis() provides a bref function for visualizing and downloading of scZCL results
